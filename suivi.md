@@ -1,0 +1,2 @@
+21/01 ; 25/01 ; 28/01 :: Pour le premier Livrable de cette SAE, Bilel s'est occupé de créer les tables SQL ainsi que le jeu de test et Zinedine a créer les projets sur Github ainsi que Pythonanywhere et créer le MCD.
+Shakir étant absent pour cause de COVID.
