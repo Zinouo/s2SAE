@@ -7,4 +7,4 @@ groupe numéro : 22
 
 URL du projet github : https://github.com/Zinouo/s2SAE
 
-URL du site pythonanywhere : https://www.pythonanywhere.com/user/zinouo/
+URL du site pythonanywhere : https://zinouo.pythonanywhere.com/
